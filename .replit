@@ -1,0 +1,2 @@
+run="npx nodemon -x 'sh main.sh || touch main.sh'"
+language="nodejs"
